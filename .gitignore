@@ -1,11 +1,10 @@
-.env
 node_modules/
 dist/
 coverage/
 *.log
 .DS_Store
 .idea/
-.vscode/
 /generated/prisma
 
 /generated/prisma
+config.bat
